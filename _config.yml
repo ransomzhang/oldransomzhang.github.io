@@ -1,3 +1,3 @@
 name: ransomzhang's blog
-markdown: redcarpet
+markdown: rdiscount
 pygments: true

@@ -1,31 +1,10 @@
 ---
 layout: post
-title:  "Second Post"
+title:  "写在开始的话"
 date:   2014-01-26 10:14:27
-categories: jekyll update
+categories: article
 ---
 
-### 标题三，中文OK？
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+一直以来都想开个博客，一来为了满足自身装B的心理层次需求，二来为了满足自身的表达欲，三来自知记忆力有限，需要有个地方能够记录。苦于一直找不到理想的平台而自己做事又经常三分钟热度，一直不成气候，最近偶见到这种`github` + `jekyll` + `markdown`模式，觉得应该是最适合的了，热度一下又上来了，这次应该超过三分钟。随之近年来各种微X的流行，很多博客的更新频率急剧降低，一些的更新还停留在11、12年，现在还开博客是不是很傻冒。其实140个字终究有限，且还充斥着各种广告、吃斋念佛、心灵鸡汤、成功哲学、过热的民族主义，信息熵极低。现在新浪微博热度的下降也预示着微X的已处下坡路。但不管各种社交媒体如何变，只要人们表达、分享、阅读的原动力不变，我想，博客就不会消亡。
 
-**Display image**:
-![from web](http://ww1.sinaimg.cn/bmiddle/e0dab130gw1ebcgcycu0cj20iy0qn401.jpg)
-
-*Secondimage*:
 ![from local]({{ site.url }}/assets/tumblr.jpg)
-
-- list1
-- list2
-- list3
-
-1. 列1
-2. 列2
-3. 列3
-
-引用
-
- > 人之大患在好为人师
-你开辟一条路让大家走，到最后，那就必将有人无路可走
-
-over `here`
