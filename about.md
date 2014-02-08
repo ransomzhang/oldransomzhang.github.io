@@ -3,7 +3,7 @@ layout: default
 title: ransomzhang blog
 ---
 
-Hi,我是蓝森(ransomzhang)，爱看书、上网、电影、摇滚、乡村、羽毛球，下个目标应该是骑车，目前偏安于粤东小城。
+Hi,我是蓝森(ransomzhang)，伪程序猿一枚，目前偏安于粤东小城。
 
 献上鸡汤几碗：
 
